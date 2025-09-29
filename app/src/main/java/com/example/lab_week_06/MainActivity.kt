@@ -64,9 +64,59 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShorthair,
+                    "Simba",
+                    "King of the living room",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Luna",
+                    "Dreamy night stalker",
+                    "https://cdn2.thecatapi.com/images/9q0.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Oliver",
+                    "Always hungry, always plotting",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyMQ.png"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.ExoticShorthair,
+                    "Nala",
+                    "Queen of naps and snacks",
+                    "https://cdn2.thecatapi.com/images/9pi.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.BalineseJavanese,
+                    "Shadow",
+                    "Mysterious and elusive",
+                    "https://cdn2.thecatapi.com/images/8hj.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Leo",
+                    "Adventurer with nine lives",
+                    "https://cdn2.thecatapi.com/images/1sd.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.ExoticShorthair,
+                    "Cleo",
+                    "Loves warm laps and attention",
+                    "https://cdn2.thecatapi.com/images/2oo.jpg"
                 )
             )
         )
+
     }
     private fun showSelectionDialog(cat: CatModel) {
         AlertDialog.Builder(this)
