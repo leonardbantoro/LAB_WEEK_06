@@ -7,4 +7,8 @@ Part 1 - Adding a RecyclerView and Populating it No. 23
 Part 2 - Clickable RecyclerView No. 8
 <img width="1913" height="1017" alt="image" src="https://github.com/user-attachments/assets/4459366e-c8dc-4632-aa45-1f4344b1a27c" />
 
+Part 3 - Deleting an Item from RecyclerView by Swiping No. 6
+<img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/9091f70c-1182-452d-aba5-bae9e6986ad0" />
+
+
 
